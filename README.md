@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Deep</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-![](https://leetcard.jacoblin.cool/prudhvideep1996?theme=light,unicorn)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvideep&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvideep" /> </p>
 
 - 🔭 I’m currently working on [Soccer Analytics](https://github.com/prudhvideep/Soccer-Analytics)
@@ -10,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/prudhvideep](https://github.com/prudhvideep)
 
 - 📫 How to reach me **prudhvideep1996@gmail.com**
+  
+![](https://leetcard.jacoblin.cool/prudhvideep1996?theme=light,unicorn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
