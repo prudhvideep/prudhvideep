@@ -8,8 +8,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/prudhvideep](https://github.com/prudhvideep)
 
 - 📫 How to reach me **prudhvideep1996@gmail.com**
-  
+
+<h3 align="left">LeetCode Stats :</h3>
+<p align="left">
 ![](https://leetcard.jacoblin.cool/prudhvideep1996?theme=light,unicorn)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
