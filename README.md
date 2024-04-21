@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **prudhvideep1996@gmail.com**
 
-<h3 align="left">LeetCode Stats :</h3>
+<!--<h3 align="left">LeetCode Stats :</h3>
 
-![](https://leetcard.jacoblin.cool/prudhvideep1996?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/prudhvideep1996?theme=light,unicorn)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
