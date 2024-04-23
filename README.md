@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **prudhvideep1996@gmail.com**
 
-<!--<h3 align="left">LeetCode Stats :</h3>
-
-![](https://leetcard.jacoblin.cool/prudhvideep1996?theme=light,unicorn)-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prudhvideep1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prudhvideep1996" height="30" width="40" /></a>
