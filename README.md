@@ -26,5 +26,6 @@ Hello, I am Prudhvi 👋
 - Currently building <a href="https://github.com/prudhvideep/Snippets">Snippets</a>, a note taking application with minimal visual noise. 
 - Exploring low level systems as part of my learning journey.
 
-I enjoy building open-source applications as a creative outlet, enabling me to act on and refine ideas, explore intriguing concepts in depth, and solve problems that can positively impact people's lives. 
+I enjoy building open-source applications as a creative outlet, enabling me to act on and refine ideas, 
+explore intriguing concepts in depth, and solve problems that can positively impact people's lives. 
 </pre>
