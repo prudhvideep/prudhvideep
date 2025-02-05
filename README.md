@@ -22,7 +22,7 @@ $ cat profile.txt
 Hello, I am Prudhvi 👋
 
 - I'm a full-stack developer, primarily coding in Go, TypeScript and Python.
-- I'm interested in distributed systems, artifical intelligence, and crafting intutive user interfaces.
+- I'm interested in low-level systems, distributed architectures, artificial intelligence, and crafting intuitive user interfaces.
 - Currently building <a href="https://github.com/prudhvideep/Snippets">Snippets</a>, a note taking application with minimal visual noise. 
 - Exploring low level systems as part of my learning journey.
 
