@@ -23,8 +23,4 @@ Hello, I am Prudhvi 👋
 
 - I'm a full-stack developer, primarily coding in Rust, TypeScript and Python.
 - I'm interested in low-level systems, distributed architectures, artificial intelligence, and crafting intuitive user interfaces.
-- Currently building <a href="https://github.com/prudhvideep/Snippets">Snippets</a>, a note taking application with minimal visual noise. 
-
-I enjoy building open-source applications as a creative outlet, enabling me to act on and refine ideas, 
-explore intriguing concepts in depth, and solve problems that can positively impact people's lives. 
 </pre>
