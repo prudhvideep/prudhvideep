@@ -22,5 +22,5 @@ $ cat profile.txt
 Hello, I am Prudhvi 👋
 
 - I'm a full-stack developer, primarily coding in Rust, TypeScript and Python.
-- I'm interested in low-level systems, distributed architectures, artificial intelligence, and crafting intuitive user interfaces.
+- I'm interested in low-level systems, programming language theory, and crafting intuitive user interfaces.
 </pre>
